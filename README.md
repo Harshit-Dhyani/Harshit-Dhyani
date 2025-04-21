@@ -73,7 +73,7 @@ Always learning. Always building. 🚀
 Check out my repositories to see what I’ve been working on. I'm always open to ideas and collaborations!
 
 Currently working on:
-- ⚡ **Unify Flow** – a Notion-style editor with custom covers, emoji, and smart AI tools
+- ⚡ Unify Flow – a Notion-style editor with custom emoji, cover support, AI content generation, and real-time syncing
 - 📈 **Unify Uptime** – real-time status monitoring, made simple  
 - 🛠️ ...and more on the way!
 
