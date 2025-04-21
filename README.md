@@ -1,6 +1,6 @@
 # Hey everyone 👋  
 
-I'm **Harshit Dhyani**, a curious learner who loves exploring new things every day. I enjoy both programming and gaming.
+I'm **Harshit Dhyani**, a 16-year-old curious learner who loves exploring new things every day. I enjoy both programming and gaming.
 
 I'm a self-taught developer passionate about building cool things with code. I mostly work with **TypeScript** and **Java**, and I have a good grip on **Python** too.  
 Right now, I’m deep-diving into Java and planning to explore areas like **Machine Learning**, **Gen AI**, and **Data Structures & Algorithms (DSA)**.  
@@ -73,7 +73,7 @@ Always learning. Always building. 🚀
 Check out my repositories to see what I’ve been working on. I'm always open to ideas and collaborations!
 
 Currently working on:
-- ⚡ **Unify Flow** – something cool
+- ⚡ **Unify Flow** – a Notion-style editor with custom covers, emoji, and smart AI tools
 - 📈 **Unify Uptime** – real-time status monitoring, made simple  
 - 🛠️ ...and more on the way!
 
