@@ -2,7 +2,7 @@
 
 - 🎯 16-year-old **self-taught developer**
 
-- 🚀 Interested in **Machine Learning, Generative AI, DSA, and Kotlin**
+- 🚀 Interested in **Machine Learning, Generative AI, DSA, and C++**
 
 - 📚 Currently deep-diving into **Java** & **DSA**; next up → **Machine Learning & GenAI**
 
