@@ -1,10 +1,10 @@
 ## 👋 Hey, I'm Harshit Dhyani
 
-- 🎯 16-year-old **self-taught developer**
-- 🚀 Interested in **Machine Learning, Generative AI, DSA, and Kotlin**
-- 📚 Currently deep-diving into **Java** & **DSA**; next up → **Machine Learning & GenAI**
-- 🖤 I build **full-stack web apps** and love turning ideas into reality
-- 🌱 Fun fact: I learn something new **every day**
+- 🎯 17-year-old **self-taught developer**  
+- 💡 Currently focused on strengthening my foundations in **Java and DSA**  
+- 🖤 I love creating **full-stack web apps** and turning ideas into reality  
+- 🔮 Excited to dive into **AI** soon — especially **ML, DL, and Gen AI**  
+- 🌱 Fun fact: I learn something new **every single day**  
 
 ##
 
