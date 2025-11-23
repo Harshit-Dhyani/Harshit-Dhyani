@@ -3,7 +3,7 @@
 - 🎯 17-year-old **self-taught developer**  
 - 💡 Currently focused on strengthening my foundations in **Java and DSA**  
 - 🖤 I love creating **full-stack web apps** and turning ideas into reality  
-- 🔮 Excited to dive into **AI** soon — especially **ML, DL, and Gen AI**  
+- 🔮 Excited to dive into **AI** soon especially **ML, DL, and Gen AI**  
 - 🌱 Fun fact: I learn something new **every single day**  
 
 ##
