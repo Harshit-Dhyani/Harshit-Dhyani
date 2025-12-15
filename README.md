@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Harshit Dhyani
+## 👋 Hey, I'm harshdev(Harsheeth Dhyani)
 
 - 🎯 17-year-old **self-taught developer**  
 - 💡 Currently focused on strengthening my foundations in **Java and DSA**  
