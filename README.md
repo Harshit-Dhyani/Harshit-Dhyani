@@ -19,6 +19,7 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=python" height="40" title="Python"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" title="C++"/>
 </p>
 
 <h3>🎨 Frontend</h3>
