@@ -1,4 +1,4 @@
-## 👋 Hey, I’m HarshDev
+## 👋 Hey, I’m HarshBuilds
 **Harshit Dhyani** (pronounced **HAR-sheeth**)
 
 - 🎯 17-year-old self-taught developer
