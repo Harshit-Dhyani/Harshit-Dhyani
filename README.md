@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=950&lines=Harshit+Dhyani+(HAR-sheeth);Aspiring+entrepreneur+building+in+public;Builder\+%2B\+shipping;AI+focus:+Agents,+RAG,+Tool-use,+Evals;Learning+fast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=950&lines=Harshit+Dhyani+(HAR-sheeth);Aspiring+entrepreneur;Builder\+%2B\+shipping;AI+focus:+Agents,+RAG,+Tool-use,+Evals;Learning+fast" />
 </p>
 
 <p align="center">
