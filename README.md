@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I’m **Harshit Dhyani**, a **17-year-old aspiring entrepreneur and self-taught builder**.
+I’m **Harshit Dhyani**, a **17-year-old entrepreneur and self-taught builder**.
 
 I’ve been programming since **2022**, building strong fundamentals across **web development, automation, backend systems, and AI-powered products**.
 
