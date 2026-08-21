@@ -10,8 +10,40 @@
   <text x="450" y="86" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">LAST PUSH</text>
   <text x="620" y="86" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">AGE</text>
   <text x="760" y="86" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">PUBLIC DESCRIPTION</text>
-  <g transform="translate(60 110)"><circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="1.60s" repeatCount="indefinite"/></circle><text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">pcmon</text><text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">PowerShell</text><text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-08-14</text><text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">7D AGO</text><text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">Local-first Windows monitoring and diagnostics.</text><line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/></g>
-  <g transform="translate(60 168)"><circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="1.77s" repeatCount="indefinite"/></circle><text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">AutoCoC</text><text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Python</text><text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-06-27</text><text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">55D AGO</text><text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">No public description yet.</text><line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/></g>
-  <g transform="translate(60 226)"><circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="1.94s" repeatCount="indefinite"/></circle><text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Tessera-Gateway</text><text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">TypeScript</text><text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-06-22</text><text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">60D AGO</text><text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">Local AI gateway through provider web sessions.</text><line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/></g>
-  <g transform="translate(60 284)"><circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="2.11s" repeatCount="indefinite"/></circle><text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">OpenWispr</text><text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Python</text><text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-04-04</text><text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">4MO AGO</text><text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">Privacy-first local speech-to-text for Windows.</text><line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/></g>
+  <g transform="translate(60 110)">
+    <circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="1.60s" repeatCount="indefinite"/></circle>
+    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">pcmon</text>
+    <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">PowerShell</text>
+    <text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-08-14</text>
+    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">6D AGO</text>
+    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">pcmon is a local-first Windows system monitoring and diag…</text>
+    <line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/>
+  </g>
+  <g transform="translate(60 168)">
+    <circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="1.77s" repeatCount="indefinite"/></circle>
+    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">AutoCoC</text>
+    <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Python</text>
+    <text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-06-27</text>
+    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">54D AGO</text>
+    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">No public description yet.</text>
+    <line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/>
+  </g>
+  <g transform="translate(60 226)">
+    <circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="1.94s" repeatCount="indefinite"/></circle>
+    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Tessera-Gateway</text>
+    <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">TypeScript</text>
+    <text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-06-22</text>
+    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">60D AGO</text>
+    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">Tessera Gateway is a Windows-first local AI gateway that…</text>
+    <line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/>
+  </g>
+  <g transform="translate(60 284)">
+    <circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="2.11s" repeatCount="indefinite"/></circle>
+    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">OpenWispr</text>
+    <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Python</text>
+    <text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-04-04</text>
+    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">4MO AGO</text>
+    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">OpenWispr is a privacy-first desktop application for real…</text>
+    <line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/>
+  </g>
 </svg>
