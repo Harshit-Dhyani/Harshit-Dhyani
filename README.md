@@ -54,7 +54,7 @@ I also keep learning repos and experiments public when they are useful as a reco
 languages   TypeScript · JavaScript · Python · Java · C++
 frontend    React · Next.js · Tailwind · Vite · Electron
 backend     Node.js · Express · FastAPI · Flask · Prisma
- data       PostgreSQL · MongoDB · Supabase
+data        PostgreSQL · MongoDB · Supabase
 systems     Docker · Git/GitHub · Windows/PowerShell · VPS
 ai          LLM APIs · RAG · agents · local models · evaluation workflows
 ```
