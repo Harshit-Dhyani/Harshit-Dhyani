@@ -12,38 +12,38 @@
   <text x="760" y="86" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">PUBLIC DESCRIPTION</text>
   <g transform="translate(60 110)">
     <circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="1.60s" repeatCount="indefinite"/></circle>
-    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Project-Management</text>
-    <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">JavaScript</text>
+    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Discord-clone-next.js</text>
+    <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">TypeScript</text>
     <text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-08-22</text>
-    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">TODAY</text>
-    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">Legacy Next.js project-management learning prototype feat…</text>
+    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">1D AGO</text>
+    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">No public description yet.</text>
     <line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/>
   </g>
   <g transform="translate(60 168)">
     <circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="1.77s" repeatCount="indefinite"/></circle>
-    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Event-Manager-Minecraft-Plugin</text>
-    <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Java</text>
+    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Project-Management</text>
+    <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">JavaScript</text>
     <text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-08-22</text>
-    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">TODAY</text>
-    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">No public description yet.</text>
+    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">1D AGO</text>
+    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">Legacy Next.js project-management learning prototype feat…</text>
     <line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/>
   </g>
   <g transform="translate(60 226)">
     <circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="1.94s" repeatCount="indefinite"/></circle>
-    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ProHub</text>
+    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Event-Manager-Minecraft-Plugin</text>
     <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Java</text>
     <text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-08-22</text>
-    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">TODAY</text>
-    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">Legacy Minecraft hub/lobby plugin built with Java and Spi…</text>
+    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">1D AGO</text>
+    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">No public description yet.</text>
     <line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/>
   </g>
   <g transform="translate(60 284)">
     <circle cx="0" cy="-5" r="4" fill="#228B61"><animate attributeName="opacity" values="1;.35;1" dur="2.11s" repeatCount="indefinite"/></circle>
-    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">pcmon</text>
-    <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">PowerShell</text>
-    <text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-08-14</text>
-    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">8D AGO</text>
-    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">pcmon is a local-first Windows system monitoring and diag…</text>
+    <text x="22" y="0" fill="#151719" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ProHub</text>
+    <text x="250" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Java</text>
+    <text x="390" y="0" fill="#6E7479" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">2026-08-22</text>
+    <text x="560" y="0" fill="#C87800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">1D AGO</text>
+    <text x="700" y="0" fill="#6E7479" font-family="Arial, Helvetica, sans-serif" font-size="13">Legacy Minecraft hub/lobby plugin built with Java and Spi…</text>
     <line x1="0" y1="25" x2="1160" y2="25" stroke="#D5D0C8"/>
   </g>
 </svg>
